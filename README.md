@@ -1,8 +1,8 @@
-# mill fire
+# civic stadium fire
 
-This is an example story produced by Rob Denton/The Register-Guard and Micky Hulse/The Register-Guard. The story was published July 17, 2014 and repurposed for Web later as a real-world example for the [bruce](https://github.com/rgpages/bruce) template.
+coming soon
 
-![screenshot](https://github.com/rgpages/springfield-plywood-and-veneer-mill-fire/blob/gh-pages/default.png)
+![screenshot](https://github.com/rgpages/civic-stadium-fire/blob/gh-pages/default.png)
 
 This example features:
 
